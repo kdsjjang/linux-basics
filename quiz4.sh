@@ -1,0 +1,2 @@
+mkdir myDirectory
+rmdir myDirectory
